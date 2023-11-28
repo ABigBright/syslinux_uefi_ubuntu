@@ -1,0 +1,4 @@
+# Install the Ubuntu MATE desktop.
+tasksel tasksel/first   multiselect ubuntu-mate-desktop
+# No MATE translation packages yet.
+d-i     pkgsel/language-pack-patterns   string

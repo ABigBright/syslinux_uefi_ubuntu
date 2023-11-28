@@ -1,0 +1,3 @@
+需要拷贝ubuntu安装iso的casper/filesystem.squashfs, 替换本文件
+
+因为该文件是根文件系统，太大了，所以上传github上，要用lfs，太麻烦，故用本文件替换提醒
